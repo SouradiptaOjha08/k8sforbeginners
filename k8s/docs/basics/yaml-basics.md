@@ -1,8 +1,3 @@
-Great! Below is the **Markdown (.md) version** of your YAML Primer, enhanced with the new content, examples, and cheat sheet sections — perfect for publishing on GitHub.
-
----
-
-````markdown
 # YAML Primer for Beginners (For Ansible and Kubernetes)
 
 ## Table of Contents
